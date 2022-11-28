@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "MASTER",
+			"path": "../../MASTER"
+		},
+		{
+			"name": "SLAVE",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"EIDE.SerialPortMonitor.BaudRate": 9600
+	}
+}
